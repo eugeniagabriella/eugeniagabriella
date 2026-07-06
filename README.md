@@ -29,13 +29,15 @@ I enjoy building interactive applications, game systems, and intelligent digital
 
 ## 🚀 Featured Projects
 
-### 💡 Tranquil.AI
-An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
-Key highlights:
-- GPT-based AI integration for conversational features  
-- Prompt engineering and response handling system  
-- API communication and data flow management  
-- Interactive UI connected to AI backend logic
+### 🎮 THE RITUAL
+A first-person horror game developed in Unity as a solo project.  
+Focused on immersive gameplay, interaction systems, and environmental storytelling.
+
+Features:
+- Player interaction system
+- Puzzle and progression mechanics
+- Enemy AI behavior
+- Atmospheric horror environment design
 
 ---
 
@@ -49,15 +51,13 @@ A financial management system designed for MSMEs, featuring:
 
 ---
 
-### 🎮 THE RITUAL
-A first-person horror game developed in Unity as a solo project.  
-Focused on immersive gameplay, interaction systems, and environmental storytelling.
-
-Features:
-- Player interaction system
-- Puzzle and progression mechanics
-- Enemy AI behavior
-- Atmospheric horror environment design
+### 💡 Tranquil.AI
+An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
+Key highlights:
+- GPT-based AI integration for conversational features  
+- Prompt engineering and response handling system  
+- API communication and data flow management  
+- Interactive UI connected to AI backend logic
 
 ---
 
