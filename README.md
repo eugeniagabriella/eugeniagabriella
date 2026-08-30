@@ -43,13 +43,14 @@ Features:
 
 ---
 
-### 💳 DompetKu
-A financial management system designed for MSMEs, featuring:
-- Peer-to-peer transactions
-- Kasbon (loan) system with repayment tracking
-- Reputation-based trust scoring system
-- Transaction history and user activity tracking
-- Reward and penalty logic for user behavior
+### 🌸 FEMORA
+A social impact platform designed to improve access to information about women’s rights and public services, especially for users in rural areas.
+
+Key Features:
+- Simplified educational content about rights and services
+- Accessible UI/UX designed for beginners
+- Voice-based guidance for better accessibility
+- Interactive information system for user engagement
 
 ---
 
@@ -63,14 +64,13 @@ Key highlights:
 
 ---
 
-### 🌸 FEMORA
-A social impact platform designed to improve access to information about women’s rights and public services, especially for users in rural areas.
-
-Key Features:
-- Simplified educational content about rights and services
-- Accessible UI/UX designed for beginners
-- Voice-based guidance for better accessibility
-- Interactive information system for user engagement
+### 💳 DompetKu
+A financial management system designed for MSMEs, featuring:
+- Peer-to-peer transactions
+- Kasbon (loan) system with repayment tracking
+- Reputation-based trust scoring system
+- Transaction history and user activity tracking
+- Reward and penalty logic for user behavior
 
 ---
 
