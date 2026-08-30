@@ -31,6 +31,7 @@ I enjoy building interactive applications, game systems, and intelligent digital
 
 ### 🎮 THE RITUAL
 Demo : https://klotdevs.itch.io/the-ritual
+
 A first-person horror game developed in Unity as a solo project.  
 Focused on immersive gameplay, interaction systems, and environmental storytelling.
 
