@@ -3,7 +3,9 @@
 **Software Development | Technology**
 
 ---
+
 📧 Reach me at : tirtadjaja.eugenia@gmail.com
+
 ---
 
 ## 👩‍💻 About Me
