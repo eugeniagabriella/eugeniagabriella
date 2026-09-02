@@ -78,10 +78,3 @@ A financial management system designed for MSMEs, featuring:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniagabriella&layout=compact&hide_border=true)
 
 ---
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/eugeniagabriella  
-- LinkedIn: https://www.linkedin.com/in/eugenia-gabriella-tirtadjaja-893378282  
-
----
