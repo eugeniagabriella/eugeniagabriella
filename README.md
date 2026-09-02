@@ -1,6 +1,6 @@
 # Hi there, I'm Eugenia Gabriella 👋
 
-**Full Stack Developer | Game Developer | AI Enthusiast**
+**Software Development | Game Development | AI Enthusiast**
 
 I enjoy building interactive applications, game systems, and intelligent digital products that solve real problems and improve user experience.
 
@@ -8,10 +8,9 @@ I enjoy building interactive applications, game systems, and intelligent digital
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning C++, Python, and JavaScript  
-- 💻 Interested in Full Stack Development, Game Development, and AI systems  
-- 🚀 Passionate about building real-world, functional applications  
-- 🎯 Focused on improving system design, logic building, and software engineering skills  
+- 🎓 High school student with a strong interest in technology and software development
+- 💡 I enjoy turning ideas into projects, from interactive applications and games to different kinds of digital products
+- 🧩 I learn through building, experimenting, and solving problems along the way
 
 ---
 
