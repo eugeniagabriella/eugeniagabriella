@@ -1,8 +1,6 @@
 # Hi there, I'm Eugenia Gabriella 👋
 
-**Software Development | Game Development | AI Enthusiast**
-
-I enjoy building interactive applications, game systems, and intelligent digital products that solve real problems and improve user experience.
+**Software Development | Technology**
 
 ---
 
