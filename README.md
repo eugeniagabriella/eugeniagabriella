@@ -18,8 +18,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,7 +49,7 @@ Features:
 ### 🌸 FEMORA
 A social impact platform designed to improve access to information about women’s rights and public services, especially for users in rural areas.
 
-Key Features:
+Features:
 - Simplified educational content about rights and services
 - Accessible UI/UX designed for beginners
 - Voice-based guidance for better accessibility
@@ -61,7 +59,7 @@ Key Features:
 
 ### 💡 Tranquil.AI
 An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
-Key highlights:
+Features:
 - GPT-based AI integration for conversational features  
 - Prompt engineering and response handling system  
 - API communication and data flow management  
@@ -70,7 +68,8 @@ Key highlights:
 ---
 
 ### 💳 DompetKu
-A financial management system designed for MSMEs, featuring:
+A financial management system designed for MSMEs.
+Features:
 - Peer-to-peer transactions
 - Kasbon (loan) system with repayment tracking
 - Reputation-based trust scoring system
