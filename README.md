@@ -78,13 +78,12 @@
 
 <table>
   <tr>
-    <th width="28%">Project</th>
+    <th width="20%">Project</th>
     <th>Description</th>
   </tr>
 
   <tr>
     <td>
-      <td align="center">
       <a href="https://github.com/eugeniagabriella/THE-RITUAL"><strong> THE RITUAL</strong></a>
     </td>
     <td>
@@ -94,7 +93,6 @@
 
   <tr>
     <td>
-      <td align="center">
       <a href="https://github.com/eugeniagabriella/FEMORA"><strong> FEMORA</strong></a>
     </td>
     <td>
@@ -105,7 +103,6 @@
 
   <tr>
     <td>
-      <td align="center">
       <a href="https://github.com/eugeniagabriella/DompetKu"><strong> DompetKu</strong></a>
     </td>
     <td>
@@ -115,7 +112,6 @@
 
   <tr>
     <td>
-      <td align="center">
       <a href="https://github.com/eugeniagabriella/Tranquil.AI"><strong> Tranquil.AI</strong></a>
     </td>
     <td>
