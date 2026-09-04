@@ -27,47 +27,47 @@
   <tr>
     <td> Web Development</td>
     <td>
-      <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5">
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/css/1572B6" height="42" alt="CSS">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3">
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript">
     </td>
   </tr>
 
   <tr>
     <td> Game Development</td>
     <td>
-      <img src="https://cdn.simpleicons.org/csharp/239120" height="42" alt="C#">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#">
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/unity/000000" height="42" alt="Unity">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="Unity">
     </td>
   </tr>
 
   <tr>
     <td> Programming</td>
     <td>
-      <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="42" alt="C++">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++">
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python">
     </td>
   </tr>
 
   <tr>
     <td> UI/UX & Design</td>
     <td>
-      <img src="https://cdn.simpleicons.org/figma/F24E1E" height="42" alt="Figma">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma">
     </td>
   </tr>
 
   <tr>
     <td> Development Tools</td>
     <td>
-      <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git">
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub">
       &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code">
     </td>
   </tr>
 </table>
