@@ -76,51 +76,51 @@
 
 ## 🚀 Featured Projects
 
-#### 🎮 THE RITUAL
-Demo : https://klotdevs.itch.io/the-ritual
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
 
-A first-person horror game developed in Unity as a solo project. Focused on immersive gameplay, interaction systems, and environmental storytelling.
+  <tr>
+    <td>
+      <a href="[YOUR-THE-RITUAL-REPO-LINK](https://github.com/eugeniagabriella/THE-RITUAL)"><strong>🎮 THE RITUAL</strong></a>
+    </td>
+    <td>
+      A first-person indie horror game independently developed with Unity and C#.
+    </td>
+  </tr>
 
-Features:
-- Player interaction system
-- Puzzle and progression mechanics
-- Enemy AI behavior
-- Atmospheric horror environment design
+  <tr>
+    <td>
+      <a href="[YOUR-FEMORA-REPO-LINK](https://github.com/eugeniagabriella/FEMORA)"><strong>🌐 FEMORA</strong></a>
+    </td>
+    <td>
+      A web platform designed to improve access to information and public services
+      for women and girls in rural communities.
+    </td>
+  </tr>
 
----
+  <tr>
+    <td>
+      <a href="[YOUR-DOMPETKU-REPO-LINK](https://github.com/eugeniagabriella/DompetKu)"><strong>🔐 DompetKu</strong></a>
+    </td>
+    <td>
+      A web-based Web3 wallet exploring blockchain-based digital asset management.
+    </td>
+  </tr>
 
-#### 🌸 FEMORA
-A social impact platform designed to improve access to information about women’s rights and public services, especially for users in rural areas.
+  <tr>
+    <td>
+      <a href="[YOUR-TRANQUIL-AI-REPO-LINK](https://github.com/eugeniagabriella/Tranquil.AI)"><strong>🎨 Tranquil.AI</strong></a>
+    </td>
+    <td>
+      An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This       
+      project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
+    </td>
+  </tr>
+</table>
 
-Features:
-- Simplified educational content about rights and services
-- Accessible UI/UX designed for beginners
-- Voice-based guidance for better accessibility
-- Interactive information system for user engagement
-
----
-
-#### 💳 DompetKu
-A financial management system designed for MSMEs.
-
-Features:
-- Peer-to-peer transactions
-- Kasbon (loan) system with repayment tracking
-- Reputation-based trust scoring system
-- Transaction history and user activity tracking
-- Reward and penalty logic for user behavior
-
----
-
-#### 💡 Tranquil.AI
-An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
-
-Features:
-- GPT-based AI integration for conversational features  
-- Prompt engineering and response handling system  
-- API communication and data flow management  
-- Interactive UI connected to AI backend logic
-  
 ---
 
 ## 📊 GitHub Stats
