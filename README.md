@@ -76,11 +76,10 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 THE RITUAL
+#### 🎮 THE RITUAL
 Demo : https://klotdevs.itch.io/the-ritual
 
-A first-person horror game developed in Unity as a solo project.  
-Focused on immersive gameplay, interaction systems, and environmental storytelling.
+A first-person horror game developed in Unity as a solo project. Focused on immersive gameplay, interaction systems, and environmental storytelling.
 
 Features:
 - Player interaction system
@@ -90,7 +89,7 @@ Features:
 
 ---
 
-### 🌸 FEMORA
+#### 🌸 FEMORA
 A social impact platform designed to improve access to information about women’s rights and public services, especially for users in rural areas.
 
 Features:
@@ -101,18 +100,9 @@ Features:
 
 ---
 
-### 💡 Tranquil.AI
-An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
-Features:
-- GPT-based AI integration for conversational features  
-- Prompt engineering and response handling system  
-- API communication and data flow management  
-- Interactive UI connected to AI backend logic
-
----
-
-### 💳 DompetKu
+#### 💳 DompetKu
 A financial management system designed for MSMEs.
+
 Features:
 - Peer-to-peer transactions
 - Kasbon (loan) system with repayment tracking
@@ -120,6 +110,17 @@ Features:
 - Transaction history and user activity tracking
 - Reward and penalty logic for user behavior
 
+---
+
+#### 💡 Tranquil.AI
+An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
+
+Features:
+- GPT-based AI integration for conversational features  
+- Prompt engineering and response handling system  
+- API communication and data flow management  
+- Interactive UI connected to AI backend logic
+  
 ---
 
 ## 📊 GitHub Stats
