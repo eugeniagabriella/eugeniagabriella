@@ -20,48 +20,54 @@
 
 <table>
   <tr>
-    <th>Areas</th>
+    <th width="25%">Areas</th>
     <th>Languages, Tools, and Development Environments</th>
   </tr>
 
   <tr>
     <td>🌐 Web Development</td>
     <td>
-      <img src="https://cdn.simpleicons.org/html5" width="28" alt="HTML5"> HTML5&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/css" width="28" alt="CSS"> CSS&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/javascript" width="28" alt="JavaScript"> JavaScript
+      <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5">
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/css/1572B6" height="42" alt="CSS">
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript">
     </td>
   </tr>
 
   <tr>
     <td>🎮 Game Development</td>
     <td>
-      <img src="https://cdn.simpleicons.org/csharp" width="28" alt="C#"> C#&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/unity" width="28" alt="Unity"> Unity
+      <img src="https://cdn.simpleicons.org/csharp/239120" height="42" alt="C#">
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/unity/000000" height="42" alt="Unity">
     </td>
   </tr>
 
   <tr>
     <td>💻 Programming</td>
     <td>
-      <img src="https://cdn.simpleicons.org/cplusplus" width="28" alt="C++"> C++&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/python" width="28" alt="Python"> Python
+      <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="42" alt="C++">
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python">
     </td>
   </tr>
 
   <tr>
     <td>🎨 UI/UX & Design</td>
     <td>
-      <img src="https://cdn.simpleicons.org/figma" width="28" alt="Figma"> Figma
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" height="42" alt="Figma">
     </td>
   </tr>
 
   <tr>
     <td>⚙️ Development Tools</td>
     <td>
-      <img src="https://cdn.simpleicons.org/git" width="28" alt="Git"> Git&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/github" width="28" alt="GitHub"> GitHub&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/visualstudiocode" width="28" alt="VS Code"> VS Code
+      <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git">
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub">
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="42" alt="VS Code">
     </td>
   </tr>
 </table>
