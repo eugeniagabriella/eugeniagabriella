@@ -93,7 +93,7 @@
 
   <tr>
     <td>
-      <a href="[YOUR-FEMORA-REPO-LINK](https://github.com/eugeniagabriella/FEMORA)"><strong>🌐 FEMORA</strong></a>
+      <a href="https://github.com/eugeniagabriella/FEMORA"><strong>🌐 FEMORA</strong></a>
     </td>
     <td>
       A web platform designed to improve access to information and public services
@@ -103,7 +103,7 @@
 
   <tr>
     <td>
-      <a href="[YOUR-DOMPETKU-REPO-LINK](https://github.com/eugeniagabriella/DompetKu)"><strong>🔐 DompetKu</strong></a>
+      <a href="https://github.com/eugeniagabriella/DompetKu"><strong>🔐 DompetKu</strong></a>
     </td>
     <td>
       A web-based Web3 wallet exploring blockchain-based digital asset management.
@@ -112,7 +112,7 @@
 
   <tr>
     <td>
-      <a href="[YOUR-TRANQUIL-AI-REPO-LINK](https://github.com/eugeniagabriella/Tranquil.AI)"><strong>🎨 Tranquil.AI</strong></a>
+      <a href="https://github.com/eugeniagabriella/Tranquil.AI"><strong>🎨 Tranquil.AI</strong></a>
     </td>
     <td>
       An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This       
