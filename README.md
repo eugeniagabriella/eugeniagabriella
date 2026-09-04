@@ -78,7 +78,7 @@
 
 <table>
   <tr>
-    <th width="40%">Project</th>
+    <th width="28%">Project</th>
     <th>Description</th>
   </tr>
 
