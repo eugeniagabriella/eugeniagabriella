@@ -18,21 +18,54 @@
 
 ## 🛠️ Tech Stack
 
-**Web Development**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <th>Areas</th>
+    <th>Languages, Tools, and Development Environments</th>
+  </tr>
 
-**Game Development**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  <tr>
+    <td>🌐 Web Development</td>
+    <td>
+      <img src="https://cdn.simpleicons.org/html5" width="28" alt="HTML5"> HTML5&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/css" width="28" alt="CSS"> CSS&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/javascript" width="28" alt="JavaScript"> JavaScript
+    </td>
+  </tr>
 
-**Programming**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <tr>
+    <td>🎮 Game Development</td>
+    <td>
+      <img src="https://cdn.simpleicons.org/csharp" width="28" alt="C#"> C#&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/unity" width="28" alt="Unity"> Unity
+    </td>
+  </tr>
 
-**Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <tr>
+    <td>💻 Programming</td>
+    <td>
+      <img src="https://cdn.simpleicons.org/cplusplus" width="28" alt="C++"> C++&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/python" width="28" alt="Python"> Python
+    </td>
+  </tr>
+
+  <tr>
+    <td>🎨 UI/UX & Design</td>
+    <td>
+      <img src="https://cdn.simpleicons.org/figma" width="28" alt="Figma"> Figma
+    </td>
+  </tr>
+
+  <tr>
+    <td>⚙️ Development Tools</td>
+    <td>
+      <img src="https://cdn.simpleicons.org/git" width="28" alt="Git"> Git&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/github" width="28" alt="GitHub"> GitHub&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/visualstudiocode" width="28" alt="VS Code"> VS Code
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Featured Projects
