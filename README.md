@@ -25,7 +25,7 @@
   </tr>
 
   <tr>
-    <td>🌐 Web Development</td>
+    <td> Web Development</td>
     <td>
       <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5">
       &nbsp;&nbsp;&nbsp;
@@ -36,7 +36,7 @@
   </tr>
 
   <tr>
-    <td>🎮 Game Development</td>
+    <td> Game Development</td>
     <td>
       <img src="https://cdn.simpleicons.org/csharp/239120" height="42" alt="C#">
       &nbsp;&nbsp;&nbsp;
@@ -45,7 +45,7 @@
   </tr>
 
   <tr>
-    <td>💻 Programming</td>
+    <td> Programming</td>
     <td>
       <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="42" alt="C++">
       &nbsp;&nbsp;&nbsp;
@@ -54,14 +54,14 @@
   </tr>
 
   <tr>
-    <td>🎨 UI/UX & Design</td>
+    <td> UI/UX & Design</td>
     <td>
       <img src="https://cdn.simpleicons.org/figma/F24E1E" height="42" alt="Figma">
     </td>
   </tr>
 
   <tr>
-    <td>⚙️ Development Tools</td>
+    <td> Development Tools</td>
     <td>
       <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git">
       &nbsp;&nbsp;&nbsp;
