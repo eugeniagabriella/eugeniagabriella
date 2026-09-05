@@ -20,7 +20,13 @@ jobs:
         uses: cicirello/user-statistician@v1
         with:
           image-file: profile/stats.svg
-          hide-keys: joined,mostStarred,mostForked,followers,following,private
+          colors: dark
+          custom-title: GitHub Activity
+          hide-keys: joined,mostStarred,mostForked,followers,following,private,general
+          border-radius: 10
+          show-border: true
+          image-width: 700
+          top-icon: github
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true&langs_count=5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
