@@ -125,8 +125,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eugeniagabriella&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniagabriella&layout=compact&hide_border=true)
+<p align="center">
+  <img src="./profile/stats.svg" height="180">
+  <img src="./profile/top-langs.svg" height="180">
+</p>
 
 ---
