@@ -74,59 +74,15 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <th width="20%">Project</th>
-    <th>Description</th>
-  </tr>
-
+<table align="center">
   <tr>
     <td>
-      <a href="https://github.com/eugeniagabriella/THE-RITUAL"><strong> THE RITUAL</strong></a>
+      <img src="./profile/stats.svg" width="520">
     </td>
     <td>
-      A first-person indie horror game independently developed with Unity and C#.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/eugeniagabriella/FEMORA"><strong> FEMORA</strong></a>
-    </td>
-    <td>
-      A web platform designed to improve access to information and public services
-      for women and girls in rural communities.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/eugeniagabriella/DompetKu"><strong> DompetKu</strong></a>
-    </td>
-    <td>
-      A web-based Web3 wallet exploring blockchain-based digital asset management.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/eugeniagabriella/Tranquil.AI"><strong> Tranquil.AI</strong></a>
-    </td>
-    <td>
-      An AI-powered application that integrates modern language models to create intelligent and interactive user experiences. This       
-      project explores the use of GPT-based systems and API integration to build practical AI-driven solutions.
+      <img src="./profile/top-langs.svg" width="360">
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="300">
-  
-  <img src="./profile/top-langs.svg" height="180">
-</p>
