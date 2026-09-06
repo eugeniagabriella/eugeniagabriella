@@ -83,8 +83,5 @@
     </td>
    <td valign="top">
   <img src="./profile/top-langs.svg" width="360">
-  <br><br>
-  <img src="./profile/streak.svg" width="360">
-</td>
   </tr>
 </table>
