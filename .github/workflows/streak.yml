@@ -19,7 +19,7 @@ jobs:
       - name: Generate GitHub streak
         uses: zients/github-readme-streak-stats@v2
         with:
-          options: user=${{ github.repository_owner }}&theme=github-dark&hide_border=true&disable_animations=true&card_width=360&card_height=195
+          options: user=${{ github.repository_owner }}&background=%230d1117&stroke=%2330363d&ring=%2358a6ff&fire=%23f78166&currStreakNum=%23f0f6fc&sideNums=%23f0f6fc&currStreakLabel=%238b949e&sideLabels=%238b949e&dates=%238b949e&hide_border=true&disable_animations=true&card_width=360&card_height=195
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
