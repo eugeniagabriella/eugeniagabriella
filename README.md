@@ -78,10 +78,10 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td valign="top">
       <img src="./profile/stats.svg" width="520">
     </td>
-    <td>
+    <td valign="top">
       <img src="./profile/top-langs.svg" width="360">
     </td>
   </tr>
