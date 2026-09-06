@@ -84,7 +84,7 @@
     <td valign="top">
       <img src="./profile/top-langs.svg" width="360">
       <br><br>
-      <img src="./profile/contributions.svg" width="360">
+      <img src="./profile/activity-consistency-wide-dark.svg" width="360">
     </td>
   </tr>
 </table>
